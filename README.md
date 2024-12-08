@@ -47,5 +47,5 @@ Welcome to the **PDF Knowledge Base Query App**! This application allows you to 
 To run the app locally:
 1. Clone the repository:
    ```bash
-   git clone https://huggingface.co/spaces/your_space_name
-   cd your_space_name
+   https://github.com/JagadeeswarB/RAG-PDF
+   cd RAG-PDF
