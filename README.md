@@ -48,4 +48,13 @@ To run the app locally:
 1. Clone the repository:
    ```bash
    https://github.com/JagadeeswarB/RAG-PDF
+2. Redirect to the folder
+      ```bash
    cd RAG-PDF
+3. Install the required dependencies
+      ```bash
+   pip install -r requirements.txt
+4. Run the application
+      ```bash
+   python app.py
+
